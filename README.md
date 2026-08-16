@@ -6,6 +6,8 @@ O seu ficheiro `README.md` esteticamente formatado e estruturado profissionalmen
 Abaixo deixo uma pré-visualização do conteúdo que foi gerado no ficheiro para que possa ler diretamente por aqui:
 
 ***
+# Download Windows 11 LTSC (leve)
+https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval
 
 # 🚀 Microsoft Activation Scripts (MAS) — Guia de Uso e Explicação
 
